@@ -57,10 +57,9 @@
 <span align="left">
 <div>
  
- /* <a href="www.linkedin.com/in/mrunal-muley-9706771b4" target="_blank">
+  <a href="www.linkedin.com/in/mrunal-muley-9706771b4" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="34" height="24" alt="linkedin logo"  />
   </a>
-  */
   </div>
 </span>
 </span>
